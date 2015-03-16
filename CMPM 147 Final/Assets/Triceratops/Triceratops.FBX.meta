@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: d6505376837b1164b97cb1a29d5b1085
+timeCreated: 1426474031
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TRICrest
+    100004: TRICuerC
+    100006: TRICuerD
+    100008: TRICuerI
+    100010: TRIDori
+    100012: TRIGarDD
+    100014: TRIGarDI
+    100016: TRIGarTD
+    100018: TRIGarTI
+    100020: TRIOjoDe
+    100022: TRIOjoIz
+    400000: //RootNode
+    400002: TRICrest
+    400004: TRICuerC
+    400006: TRICuerD
+    400008: TRICuerI
+    400010: TRIDori
+    400012: TRIGarDD
+    400014: TRIGarDI
+    400016: TRIGarTD
+    400018: TRIGarTI
+    400020: TRIOjoDe
+    400022: TRIOjoIz
+    2300000: TRICrest
+    2300002: TRICuerC
+    2300004: TRICuerD
+    2300006: TRICuerI
+    2300008: TRIDori
+    2300010: TRIGarDD
+    2300012: TRIGarDI
+    2300014: TRIGarTD
+    2300016: TRIGarTI
+    2300018: TRIOjoDe
+    2300020: TRIOjoIz
+    3300000: TRICrest
+    3300002: TRICuerC
+    3300004: TRICuerD
+    3300006: TRICuerI
+    3300008: TRIDori
+    3300010: TRIGarDD
+    3300012: TRIGarDI
+    3300014: TRIGarTD
+    3300016: TRIGarTI
+    3300018: TRIOjoDe
+    3300020: TRIOjoIz
+    4300000: TRICrest
+    4300002: TRICuerC
+    4300004: TRICuerD
+    4300006: TRICuerI
+    4300008: TRIDori
+    4300010: TRIGarDD
+    4300012: TRIGarDI
+    4300014: TRIGarTD
+    4300016: TRIGarTI
+    4300018: TRIOjoDe
+    4300020: TRIOjoIz
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
